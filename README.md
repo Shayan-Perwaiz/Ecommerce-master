@@ -6,8 +6,6 @@ An eCommerce Application backend with Java Spring Boot with frontend using the R
 
 ### Deployed link: https://eccomers96.netlify.app/
 
-###  Railway Deployed Apis
-https://api-ecom.up.railway.app//swagger-ui/index.html#/
 
 ## Tech Stack and Technology Used
 
@@ -45,13 +43,7 @@ To get started with this project, you will need to have the following installed 
 - JDK 17+
 - Maven 3+
 
-## Installation & Run
-To install this application, run the following commands:
 
-### Clone the project repository:
-```bash
-git clone https://github.com/Vivekgupta96/eCommerce-Application.git
-```
 ### Navigate to the project directory:
 ```
 cd eCommerce-Application
@@ -86,12 +78,7 @@ mvnw spring-boot:run
 ## API Root Endpoint with Swagger Documentation
 
 ```
-### https://localhost:8080/
 
-###  Railway Deployed Apis
-https://api-ecom.up.railway.app/swagger-ui/index.html#/
-### http://localhost:8080/swagger-ui/index.html
-```
 
 - To Get Access as admin , you have to use below query for register the admin for the first time in MySQL databse folling are details below
 
